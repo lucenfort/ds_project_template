@@ -11,6 +11,7 @@ __pycache__/
 *.env
 .env*
 secrets.json
+# config.yaml
 
 # Logs e Arquivos Temporários
 logs/
@@ -22,11 +23,11 @@ logs/
 Thumbs.db
 
 # Dados Sensíveis e Modelos
-data/raw/
-data/processed/
-data/external/
-models/
-reports/figures/
+#data/raw/
+#data/processed/
+#data/external/
+#models/
+#reports/figures/
 
 # Arquivos de IDE e Ferramentas
 .vscode/
